@@ -1,0 +1,1 @@
+All instructions are followed and makefile created by the executable file called "hw1".

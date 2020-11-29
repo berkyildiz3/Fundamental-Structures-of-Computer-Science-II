@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1541188077 source:c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\pbbst.cpp
+	"PbBST.h"
+	<cmath>
+
+1541188079 source:c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\main.cpp
+	<iostream>
+	"PbBST.h"
+	"PbBSTNode.h"
+	"analysis.h"
+	<algorithm>
+
+1541187693 c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\pbbst.h
+	"PbBSTNode.h"
+
+1541187583 c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\pbbstnode.h
+	<iostream>
+
+1541151337 c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\pbbst.cpp
+	"PbBST.h"
+	"PbBSTNode.h"
+	<iostream>
+
+1541148810 c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\pbbstnode.cpp
+
+1541170937 source:c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\pbbstnode.cpp
+
+1541187674 source:c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\analysis.cpp
+	"analysis.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<algorithm>
+
+1541187649 c:\users\berkyildiz\desktop\cs202\homeworks\hw2\21502040_hw2\analysis.h
+	<ctime>
+	"PbBST.h"
+
